@@ -1,7 +1,6 @@
 # SoundBoard Pack - Blitz Free Pack
-
-![Free Pack Release](https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/workflows/SoundBoard-BlitzFreePack%20Release/badge.svg)
-![Latest Release Download Count](https://img.shields.io/github/downloads/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/latest/soundboard-freepack-release.zip)
+Modified by Sschwss.
+Originally created by Blitz.
 
 The 'Standard' sound pack for use with SoundBoard in FVTT
 
@@ -9,9 +8,6 @@ The 'Standard' sound pack for use with SoundBoard in FVTT
 
 Requires [SoundBoard by Blitz](https://github.com/BlitzKraig/fvtt-SoundBoard)
 
-## Troubleshooting
-
-Please create a github issue, or contact me on Discord at Blitz#6797
 
 ## Manifest
 
