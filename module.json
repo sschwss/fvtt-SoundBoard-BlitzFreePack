@@ -7,7 +7,15 @@
     "verified": "13"
   },
   "description": "Free Audio Pack - A sounds pack for SoundBoard by Blitz.",
-  "author": "Blitzkraig",
+  "authors": [
+    {
+      "name": "Blitzkraig"
+    },
+    {
+      "name": "Erling Hugo Jensen",
+      "email": "sschwss@gmail.com"
+    }
+  ],
   "scripts": ["importpack.js"],
   "styles": [],
   "packs": [],
@@ -18,9 +26,15 @@
       "path": "languages/en.json"
     }
   ],
-  "dependencies": [{
-    "name": "SoundBoard"
-  }],
+	"relationships": {
+	  "requires": [
+		{
+		  "id": "SoundBoard",
+		  "type": "module",
+		  "compatibility": {}
+		}
+	  ]
+	},
   "url": "https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack",
   "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/master/module.json",
   "download": "https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/archive/master.zip"
