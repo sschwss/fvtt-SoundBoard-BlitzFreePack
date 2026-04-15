@@ -35,7 +35,6 @@
 		}
 	  ]
 	},
-  "url": "https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack",
-  "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/master/module.json",
-  "download": "https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/archive/master.zip"
+  "url": "https://github.com/sschwss/fvtt-SoundBoard-BlitzFreePack",
+  "manifest": "https://raw.githubusercontent.com/sschwss/fvtt-SoundBoard-BlitzFreePack/master/module.json",
 }
